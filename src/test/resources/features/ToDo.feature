@@ -1,4 +1,4 @@
-@wip
+@test
 Feature: Solution for the QA Task
   Scenario: Creating a ToDo list
     Given the user navigates to the "landingPage"
