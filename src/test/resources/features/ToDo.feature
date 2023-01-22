@@ -1,6 +1,6 @@
 @test
 Feature: Solution for the QA Task
-  Scenario: Creating a ToDo list
+  Scenario: Creating and editing a ToDo list
     Given the user navigates to the "landingPage"
     And clicks the "JavaScript" tab
     And selects the framework as "Polymer"
