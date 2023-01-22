@@ -7,7 +7,7 @@ http://todomvc.com/
 
 ## Info about the framework
 
-Codes are written as dynamic as possible to increase the ``readability`, `re-usability` and `maintainability` of the framework. For example;
+Codes are written as dynamic as possible to increase the `readability`, `re-usability` and `maintainability` of the framework. For example;
 
 * `Google Chrome` is default browser for now but it can be easily changed by updating `configuration.properties` file,
 * The website to navigate can be updated through `Todo.feature` file (`src/test/resources/features/ToDo.feature`) or `configuration.properties` file,
